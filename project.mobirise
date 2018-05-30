@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AquilaWAN",
-    "currentPage": "page1.html",
+    "currentPage": "espec.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -936,7 +936,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/nodo-1400x1050.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -950,8 +953,8 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "title": "AquilaNode &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+          "text": "- Módulo LoRa RN2903 con el stack LoRaWAN interno a 915MHz.<br>- Procesador ATmega324PB de 8-bit AVR RISC-based de alto performance.<br>- Conector antena LoRa externa SMA y u.FL.<br>- Indicadores Leds.<br>- Batería de polimero de litio 3.7V.<br>- Carga de batería mediante micro USB.<br>- Switch de encendido y apagado.<br>- Botón reset.<br>- Acelerómetro de 3 ejes.<br>- Programación mediante ICSP y JTAG.<br>- Salida USART para debug.<br>- Entradas análogas para otros sensores.<br>- Entradas y Salidas digitales.<br>- GPS.<br><br>* Algunas de estas características pueden variar dependiendo de la aplicación.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
