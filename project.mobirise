@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AquilaWAN",
-    "currentPage": "espec.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -226,8 +226,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/abstract-art-blur-373543-2000x1333.jpg",
             "parallax": true,
@@ -241,8 +241,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "LoRaWAN",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "¿Por qué usamos LoRaWAN?",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -257,7 +257,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true,
+            "showButtons": false,
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -347,16 +347,16 @@
           ],
           "title1": "Seguridad",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "La comunicación entre los nodos y los concentradores es bidireccional y viaja por distintos canales de la misma frecuencia. Lo más importante es que los mensajes van cifrados de extremo a extremo con AES128.",
           "title2": "Despliegue rápido",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Un sólo concentrador de 8 canales puede soportar cerca de 500 nodos., esto en conjunto a la poca infraestructura necesaria, permiten un despliegue de una red en muy poco tiempo.<br>&nbsp;",
           "title3": "Largo alcance",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "La tecnología LoRa permite una penetración &nbsp;profunda en una amplia gama de entornos, desde ubicaciones en interiores hasta entornos urbanos densos. Un solo concentrador puede proporcionar 15Km de alcance.",
           "title4": "Bajo consumo",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.<br><br>",
+          "caption4": "El protocolo LoRaWAN fue diseñado para el uso en bajo consumo y para durar años sólo con baterías. Puede variar dependiendo los casos de uso.&nbsp;<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -390,7 +390,7 @@
           },
           "title": "FORMULARIO DE CONTACTO",
           "subtitle": "No dudes en enviar tus consultas, ideas o comentarios.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTÁCTANOS</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR&nbsp;</a>",
           "form": {
             "action": "contacto@aquilawan.cl",
             "alerts": {
