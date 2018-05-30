@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AquilaWAN",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -31,7 +31,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "4.7.6",
-    "uniqCompNum": 15,
+    "uniqCompNum": 16,
     "versionPublish": "4.7.6"
   },
   "pages": {
@@ -212,6 +212,43 @@
           ],
           "_name": "slider",
           "_anchor": "slider-2"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/abstract-art-blur-373543-2000x1333.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "LoRaWAN",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-f"
         },
         {
           "_inherit": "features3",
@@ -558,7 +595,7 @@
             }
           },
           "title": "SEGURIDAD OUTDOOR",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "Nuestro servicio es saber DONDE y COMO estas. Para lograrlo montamos estaciones de comunicación en zonas de difícil acceso para monitorear a personas realizando sus actividades diarias. De este modo disponer de información relevante para equipos de rescate ante un eventual accidente.<br>Nuestro objetivo es crear redes que salven vidas.<br><br>Algunos de los datos que podemos obtenemos:<br>&nbsp; &nbsp; - Posición (Latitud y longitud)<br>&nbsp; &nbsp; - Temperatura ambiental y corporal.<br>&nbsp; &nbsp; - Saturación de oxígeno.<br>&nbsp; &nbsp; - Altura.<br>&nbsp; &nbsp; - Aceleración.<br><br>Algunas aplicaciones:<br>&nbsp; &nbsp; - Cercos virtuales.<br>&nbsp; &nbsp; - Zonas de seguridad.<br>&nbsp; &nbsp; - Alertas de accidentes.<br>&nbsp; &nbsp; - Botón de pánico.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -610,13 +647,18 @@
             }
           },
           "title": "MINERÍA INTELIGENTE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "Tenemos la tecnología adecuada para brindarte la gestión y el procesamiento de datos que permiten prevenir fallas y gestionar los tiempos y movilización de tus activos. <br><br>Algunas aplicaciones:<br>&nbsp; &nbsp; - Gestión y posición de flota.&nbsp;<br>&nbsp; &nbsp; - Detección de fallas en líneas de producción.<br>&nbsp; &nbsp; - Seguridad de personal.<br>&nbsp; &nbsp; - Monitoreo de activos.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-e"
+          "_anchor": "msg-box5-e",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -662,7 +704,7 @@
             }
           },
           "title": "AGRICULTURA INTELIGENTE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "Contamos con la tecnología y el conocimiento para brindarte un servicio integral que permita tomar las decisiones correctas en el momento indicado.<br>Los equipos pueden funcionar de forma autónoma en cuanto a energía usando celdas solares, esto sumado al largo alcance permiten un rápido despliegue en vastas zonas de cultivos.<br><br>Algunas de las aplicaciones &nbsp;:<br>&nbsp; &nbsp; - Estaciones meteorológicas.<br>&nbsp; &nbsp; - Control de riego.<br>&nbsp; &nbsp; - Monitoreo de variables de suelo.<br>&nbsp; &nbsp; - Alerta de heladas.&nbsp;<br>&nbsp; &nbsp; - Detección temprana de plagas.<br>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -734,13 +776,18 @@
             }
           },
           "title": "CIUDAD INTELIGENTE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "text": "<p>Nuestro objetivo es brindar las herramientas necesarias para mejorar la calidad de vida de las personas combinando la protección del medio ambiente, la eficiencia energética y la movilidad urbana.<br><br>Algunas aplicaciones:<br>&nbsp; &nbsp; - Control y mantención de luminaria pública. (SmartLighting)&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp; &nbsp; - Cuidado y planificación de recolección de basura. (SmartWaste)&nbsp;<br>&nbsp; &nbsp; - Gestión de estacionamientos. (SmartParking). &nbsp;&nbsp; &nbsp;&nbsp;<br>&nbsp; &nbsp; - Sistemas de coordinación y seguridad ciudadana, botones de pánico.\n<br>&nbsp; &nbsp; - Monitereo de vehículos de transporte.&nbsp;<br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-b"
+          "_anchor": "msg-box5-b",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     }

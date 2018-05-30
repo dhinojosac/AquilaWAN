@@ -475,6 +475,13 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #2969b0!important;
 }
+#msg-box8-f .mbr-section-title,
+#msg-box8-f p {
+  color: #fff;
+}
+#msg-box8-f .mbr-section-title {
+  font-size: 60px;
+}
 #form1-4 .form-control-label {
   color: #232323;
 }
@@ -540,4 +547,10 @@ h6,
 #ext_menu-8 .link[aria-expanded="true"],
 #ext_menu-8 .dropdown-item[aria-expanded="true"] {
   color: #2969b0!important;
+}
+#msg-box5-e P {
+  text-align: left;
+}
+#msg-box5-b P {
+  text-align: left;
 }
